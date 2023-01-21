@@ -1,6 +1,6 @@
-# basic-express-typescript
+# Basic "express-typescript-mongo" Server ⌨️
 
-⚡ First change the env file based on your own private information.
+⚡ First create .env file & add your environment variables.
 
 💪 Then you can use the connect function in order to connect to database before running the server.
 
